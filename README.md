@@ -17,12 +17,7 @@ Computer Engineering Student from Brazil.
 - SQL
 - Git
 - GitHub
-## Featured Projects
 
-- Bank System
-- Inventory System
-- Library Management
-- REST API with Spring Boot
 ## Goals
 
 I'm currently focused on improving my backend development skills and building projects that solve real-world problems.
