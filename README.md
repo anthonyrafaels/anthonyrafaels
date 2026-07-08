@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**anthonyrafaels/anthonyrafaels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anthony Rafael.
 
-Here are some ideas to get you started:
+Computer Engineering Student from Brazil.
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Computer Science Student
+- Interested in Backend Development
+- Currently learning Java, Spring Boot and SQL
+- Always improving my programming skills
+## Technologies
+
+- Java
+- Python
+- JavaScript
+- SQL
+- Git
+- GitHub
+## Featured Projects
+
+- Bank System
+- Inventory System
+- Library Management
+- REST API with Spring Boot
+## Goals
+
+I'm currently focused on improving my backend development skills and building projects that solve real-world problems.
+## Contact
+
+LinkedIn
+
+Email
